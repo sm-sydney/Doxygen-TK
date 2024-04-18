@@ -1,0 +1,13 @@
+Sydney Marshall
+Spring 2024
+
+Doxygen Toolkit Assignment
+
+	Overview
+		This program shows a employee managment system in C++. It includes three classes Employee, Supervisor, and Officer. It also displays my own usage of creating my own doxygen config file. 
+
+	Files
+		This program includes 7 files Employee, Officer, and Supervisor.cpp and .h and a main.cpp.
+	How to Run the Program
+	       	To run this program compiling the files and running the executable, ./employee_management. 
+
