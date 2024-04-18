@@ -1,3 +1,12 @@
+/**
+ * @file main.cpp
+ * @author Sydney Marshall
+ * @date 2024-04-18
+ * @brief contains tests for all the classes 
+ * 
+ * driver program for testing of all the classes. all of the default and parameterized constructors are tested. and the runEmployeeTests function is called to execute tests
+ */
+
 
 #include <iostream>
 #include "Employee.h"
